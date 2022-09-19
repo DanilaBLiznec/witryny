@@ -9,7 +9,7 @@ HTML 4 VS XHML VS HTML 5 <br>
 JavaScript- jezyk programowania  syworzony przez firme NetScape <br>
 CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style Sheets <br>
 <h1>Znaczniki</h1>
-< br > - znacznik nowej linii, przestarzale < br/ >
+<code>< br > - znacznik nowej linii, przestarzale < br/ >
 <code>< html > i </ html> </ head> </ code> - pocantek i koniec dokumentu html <br>
 <code>< html > i </ html> </ head> </ code> - pocantek i koniec naglowka html <br>
 <code>< html > i </ html> </ head> </ code> - pocantek i koniec ciala(zawartosci) html <br>
