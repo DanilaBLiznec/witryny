@@ -11,8 +11,8 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <br>
 <h1>Znaczniki</h1>
 <code>< br > - znacznik nowej linii, przestarzale < br/ >
-<code>< html > i </ html> </ head> </ code> - pocantek i koniec dokumentu html<br>
-<code>< html > i </ html> </ head> </ code> - pocantek i koniec naglowka html<br>
+<code>< html > i </ html>  </ code> - pocantek i koniec dokumentu html<br>
+<code>< head > i  </ head> </ code> - pocantek i koniec naglowka html<br>
 <code>< html > i </ html> </ head> </ code> - pocantek i koniec ciala(zawartosci) html<br>
 <br>
 
