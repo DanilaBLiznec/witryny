@@ -28,3 +28,4 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
   <code>< h5 > i < /h5 ><code> - <h5>naglowek 1 stopnia</h5><br>
   <code>< h6 > i < /h6 ><code> - <h6>naglowek 1 stopnia</h6><br>
   <code>< h7 > i < /h7 ><code> - <h7>naglowek 1 stopnia</h7><br>
+   
