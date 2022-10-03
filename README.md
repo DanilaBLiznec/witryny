@@ -34,4 +34,5 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    <code>&lt;hr&gt; </code><strong>pogrubiony tekst</strong> wyglada tal samo jak znacznik &lt;b&gt; ale nadaje wieksz znaczenie dla tekstu - wazne w przypadku pozycjonowania<br>
     <code>&lt;em&gt; i &lt;/em&gt; </code><em>pochylony tekst</em> wyglada tal samo jak znacznik &lt;b&gt; ale nadaje wieksz znaczenie dla tekstu - wazne w przypadku pozycjonowania<br>
     <code>&lt;small&gt; i &lt;/small&gt; </code> zmniejszenie tekstu <small> mniejszy tekst <small> jeszcze mnijeszy tekst</small></small><br>
-    
+    <code>&lt;mark&gt; i &lt;/mark&gt; </code> wyroznienie tekstu tak jal <mark>zakreslaczem</mark><br>
+    <code>&lt;sup&gt; i &lt;/sup&gt; </code> indeks dolny H<sub>2<sub>2</sub><br>
