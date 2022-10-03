@@ -37,3 +37,4 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
     <code>&lt;mark&gt; i &lt;/mark&gt; </code> wyroznienie tekstu tak jal <mark>zakreslaczem</mark><br>
     <code>&lt;sup&gt; i &lt;/sup&gt; </code> indeks dolny H<sub>2<sub>O</sub><br>
     <code>&lt;s&gt; i &lt;/s&gt; </code> </code> przrkreslenie tekstu tekstu - zaznaczenie ze cos zostalo usuniete ze strony <del>2000</del>ZOO<br>
+ <code>&lt;ins&gt; i &lt;/ins&gt; </code> fragment zostal dodany do poprzedniego tekstu<ins>2000</nss>ZOO<br>
