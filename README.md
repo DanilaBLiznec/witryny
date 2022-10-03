@@ -31,6 +31,7 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    <code>< body bgcolor="red" ></code><kolor tla - w HTML 5 nie uzywac</body><br>
    <code>& nbsp;<\code> wiecej niz jedna  &nbsp; &nbsp; &nbsp; spacja<br>
    <code>&lt;hr&gt; </code> linia horyzontalna<br>
+    <code>&lt;hr&gt; </code><strong>pogrubiony tekst</strong> wyglada tal samo jak znacznik &lt;b&gt; ale nadaje wieksz znaczenie dla tekstu - wazne w przypadku pozycjonowania<br>
     
    
     
