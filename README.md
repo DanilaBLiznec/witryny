@@ -48,8 +48,7 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
      <li>Danila</li>
      <li>Lukasz</li>
      <li>Pawel</li>
-     </ol>
-     
+   </ol>
      <ul>
      <li>Danila</li>
      <li>Lukasz</li>
@@ -57,7 +56,7 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
      </ul>
      
       <code>&lt;dt&gt; i &lt;/dt&gt; </code> poczatek i koniec listy defenicja<br>
-     <code>&lt;dtgt; i &lt;/dtgt; </code>definition term - definicja<br>
+     <code>&lt;dt &gt; i &lt;/dtgt; </code>definition term - definicja<br>
        <code>&lt;dd&gt; i &lt;/dd&gt; </code>definition desccryption - opis pojęcia<br>
        <h4>Przyklady</h4>
        <dl>
