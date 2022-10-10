@@ -64,3 +64,6 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <dl>HTML</dl>
 <dd>Jezyk hipertekstowy opisu stron internetowych</dd>
 </dl>
+<hr>
+<h3>Linki HTML</h3>
+    <code>&lt;a&gt; i &lt;/a&gt; </code>poczatek i koniec linka np. <a>LINK</a><br>
