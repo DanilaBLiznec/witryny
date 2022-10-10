@@ -68,3 +68,4 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <h3>Linki HTML</h3>
 <code>&lt;a&gt; i &lt;/a&gt; </code>poczatek i koniec linka np. <a>LINK</a><br>
 <code>&lt;a href=""&gt; i &lt;/a&gt; </code> poczatek i koniec linka z przekiorowaniem do innej lokalizacji np. <a href="onet.pl">LINK</a><br>
+<code>&lt;a target=""&gt; i &lt;/a&gt; </code> poczatek i koniec linka z olresleniem w jakim mijescu ma zostac otwarty link np. <a href="https://onet.pl" target="_blank">LINK</a><br>
