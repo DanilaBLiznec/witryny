@@ -38,3 +38,29 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
     <code>&lt;sup&gt; i &lt;/sup&gt; </code> indeks dolny H<sub>2<sub>O</sub><br>
     <code>&lt;s&gt; i &lt;/s&gt; </code> </code> przrkreslenie tekstu tekstu - zaznaczenie ze cos zostalo usuniete ze strony <del>2000</del>ZOO<br>
  <code>&lt;ins&gt; i &lt;/ins&gt; </code> fragment zostal dodany do poprzedniego tekstu<ins>2000</nss>ZOO<br>
+ <hr>
+ <h3>Listy</h3>
+ <code>&lt;ol&gt; i &lt;/ol&gt; </code> poczatek i koniec listy upozatlowanej<br>
+ <code>&lt;lt&gt; i &lt;/lt&gt; </code> poczatek i koniec listy mieupozatkowanej<br>
+  <code>&lt;lt&gt; i &lt;/lt&gt; </code> element listy<br>
+  <h4>Przyklady</h4>
+  <ol>
+     <li>Danila</li>
+     <li>Lukasz</li>
+     <li>Pawel</li>
+     </ol>
+     
+     <ul>
+     <li>Danila</li>
+     <li>Lukasz</li>
+     <li>Pawel</li>
+     </ul>
+     
+      <code>&lt;dt&gt; i &lt;/dt&gt; </code> poczatek i koniec listy defenicja<br>
+     <code>&lt;dtgt; i &lt;/dtgt; </code>definition term - definicja<br>
+       <code>&lt;dd&gt; i &lt;/dd&gt; </code>definition desccryption - opis pojęcia<br>
+       <h4>Przyklady</h4>
+       <dl>
+       <dl>HTML</dl>
+       <dd>Jezyk hipertekstowy opisu stron internetowych</dd>
+       </dl>
