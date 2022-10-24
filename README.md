@@ -82,4 +82,4 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
     <figcaption>Podpis obrazu</figcaption>
    </figure>
    
-   <p> co to jest JPG i jakie ma cechy - zadanie domowe
+   <p> co to jest JPG i jakie ma cechy - zadanie domowe</p>
