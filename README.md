@@ -71,7 +71,7 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <code>&lt;a target=""&gt; i &lt;/a&gt; </code> poczatek i koniec linka z olresleniem w jakim mijescu ma zostac otwarty link np. <a href="https://onet.pl" target="_blank">LINK</a><br>
 <code>&lt;img src=""&gt; i &lt;/a&gt; </code>  - wyswietlenie obrazu na stronie <img src="https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7"><br>
 <code>&lt;img src="" width="" height=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z podaniem wymiarow grafiki - grafika zostanie zeskalowana nie zostanie oryginal zmieszony <img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" widht ="100" height="100"><br>
- <code>&lt;img src="" alt=""&gt; i &lt;/a&gt; </code>  wyswietlenia obrazu na stronie wraz z tekstem alternatywnym - wyswietli sie kiedy nie bedzie dostepny obraz <br><img src="https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&&r=0&o=5&pid=1.7" alt="nigger"> <br>
+ <code>&lt;img src="" alt=""&gt; i &lt;/a&gt; </code>  wyswietlenia obrazu na stronie wraz z tekstem alternatywnym - wyswietli sie kiedy nie bedzie dostepny obraz <br><img src="https://th.bing.com/th/id/OIo=5&pid=1.7" alt="niggooooer"> <br>
  <code>&lt;img src="" title=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z tekstem ltory pojawia sie po najechaniu kursorem <br><img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7"  title="tak tak"
  <code><pre>&lt;figure&gt;
     &lt;img src=""&gt; 
