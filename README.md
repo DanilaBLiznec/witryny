@@ -69,5 +69,8 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <code>&lt;a&gt; i &lt;/a&gt; </code>poczatek i koniec linka np. <a>LINK</a><br>
 <code>&lt;a href=""&gt; i &lt;/a&gt; </code> poczatek i koniec linka z przekiorowaniem do innej lokalizacji np. <a href="onet.pl">LINK</a><br>
 <code>&lt;a target=""&gt; i &lt;/a&gt; </code> poczatek i koniec linka z olresleniem w jakim mijescu ma zostac otwarty link np. <a href="https://onet.pl" target="_blank">LINK</a><br>
-<code>&lt;img src=""&gt; i &lt;/a&gt; </code>  - wyswietlenie obrazu na stronie <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-000062511933-nk2can-t500x500.jpg&imgrefurl=https%3A%2F%2Fsoundcloud.com%2Fnigger-noise%2Fnigger&tbnid=7jMk78CNUcpamM&vet=12ahUKEwjdvcXN5Pj6AhXqCBAIHRWiDKIQMygWegUIARDOAQ..i&docid=3YPZBAvNuUO3CM&w=500&h=500&q=nigger&ved=2ahUKEwjdvcXN5Pj6AhXqCBAIHRWiDKIQMygWegUIARDOAQ">
-
+<code>&lt;img src=""&gt; i &lt;/a&gt; </code>  - wyswietlenie obrazu na stronie <img src="https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7"><br>
+<code>&lt;img src="" width="" height=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z podaniem wymiarow grafiki - grafika zostanie zeskalowana nie zostanie oryginal zmieszony <img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" widht ="100" height="100"><br>
+ <code>&lt;img src="" alt=""&gt; i &lt;/a&gt; </code>  wyswietlenia obrazu na stronie wraz z tekstem alternatywnym - wyswietli sie kiedy nie bedzie dostepny obraz <br><img src="https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" alt="nigger"
+ <code>&lt;img src="" title=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z tekstem ltory pojawia sie po najechaniu kursorem <br><img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7"  title="tak tak"
+ 
