@@ -81,3 +81,5 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
     <img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" title "tak tak">
     <figcaption>Podpis obrazu</figcaption>
    </figure>
+   
+   <p> co to jest JPG i jakie ma cechy - zadanie domowe
