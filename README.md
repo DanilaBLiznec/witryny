@@ -73,6 +73,11 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
 <code>&lt;img src="" width="" height=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z podaniem wymiarow grafiki - grafika zostanie zeskalowana nie zostanie oryginal zmieszony <img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" widht ="100" height="100"><br>
  <code>&lt;img src="" alt=""&gt; i &lt;/a&gt; </code>  wyswietlenia obrazu na stronie wraz z tekstem alternatywnym - wyswietli sie kiedy nie bedzie dostepny obraz <br><img src="https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" alt="nigger"> <br>
  <code>&lt;img src="" title=""&gt; i &lt;/a&gt; </code> wyswietlenia obrazu na stronie wraz z tekstem ltory pojawia sie po najechaniu kursorem <br><img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7"  title="tak tak"
- <code>&lt;figure&gt; <br>
-    &lt;img src=""&gt; <br>
-    &lt;figcaption&gt; <br>
+ <code><pre>&lt;figure&gt;
+    &lt;img src=""&gt; 
+    &lt;figcaption&gt; podpis obrazu>/figcaption>
+    </figure></pre></code> - wyswietlenie podpisu pod obrazem <br>
+   <figure>
+    <img src= "https://th.bing.com/th/id/OIP.GmelYHI4XF38V-GdyLFkSwHaE4?w=256&h=180&c=7&r=0&o=5&pid=1.7" title "tak tak">
+    <figcaption>Podpis obrazu</figcaption>
+   </figure>
