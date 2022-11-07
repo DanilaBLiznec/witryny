@@ -100,15 +100,15 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    <code><th> i </th> </code> poczatek i koniec naglowka wiersza?kolomny tabeli<br>
     <table>
     <tr>
-     <th>knaglowek</th>
-     <th>naglowek2</th>
+     <th scope="col">knaglowek</th>
+     <th scope="col">naglowek2</th>
     </tr>
     <tr>
-     <th>naglowek</th>
+     <th scope="row">naglowek</th>
      <td>tekst</td>
     </tr>
    </table>
-   <th>naglowek</th>
+   <th scope="row">naglowek</th>
    <td>komorka 4</td>
    </tr>
    </table>
