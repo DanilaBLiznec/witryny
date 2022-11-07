@@ -114,3 +114,21 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    </tr>
    </table>
    <br>
+   <code><td rowspan=""></td rowspan=""> </code> poczatek i koniec komorki tabeli ktora jest polaczona po wierszach<br>
+   <table>
+    <tr>
+     <td>komorka</td>
+     <td rowspan="3">komorka 2 </td>
+    </tr>
+    <tr>
+     <td>komorka3</td>
+    </tr>
+    <tr>
+     <td>komorka 4</td>
+    </tr>
+   </table>
+   <br>
+   <code><thead> i </thead> </code> poczatek i koniec sekcji naglowka tabeli<br>
+    <code><tbody> i </tbody> </code> poczatek i koniec sekcji glownej tabeli<br>
+    <code><tfoot> i </tfoot> </code> poczatek i koniec sekcji stopki tabeli<br>
+   
