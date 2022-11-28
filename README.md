@@ -137,7 +137,11 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    Element samozamykający nie ma znaczmika końcowego. <input><br>
    <h4>Typy znacznika input</h4>
    <ol>
-   <li><code><input type="text"> </code> pole tekstowe <input type="text"</li>
+    <li><code><input type="text"> </code> pole tekstowe <input type="text"</li>
+   <li><code><input type="number"> </code> pole do wprowadzenia liczb <input type="number"</li>
+   <li><code><input type="password"> </code> pole do wprowadzenia hasla <input type="password"</li>
+  <li><code><input type="button"> </code> pole do wykonania formularza <input type="button"</li>
+    <li><code><input type="date"> </code> pole do daty <input type="date"</li>
+      <li><code><input type="color"> </code> pole do wyboru koloru <input type="color"</li>
+        <li><code><input type="FileUpload"> </code> pole zaladowania pliku<input type="FileUpload"</li>
    </ol>
-   
- 
