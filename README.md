@@ -145,3 +145,7 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
       <li><code><input type="color"> </code> pole do wyboru koloru <input type="color"</li>
         <li><code><input type="FileUpload"> </code> pole zaladowania pliku<input type="FileUpload"</li>
    </ol>
+   <code><input value=""> </code> element pozwalający na wprowadzenie danych wejściowych z okresloną watościa domyslmą <input><br>
+   <code><input disabled> </code> element pozwalający na wprowadzenia danych jest niedostepny/wylaczony<input><br>
+   <code><label> i </label> </code> etykieta ktorą uzytlownik mie ,oze edytowac zazwyczaj informacja co mamy wrowadzic do formularza <label>cena<input type="number"></label><br>
+   <code><input type="text" placecholder="imie i nazwisko"> i </label> </code> placholder to jest tekst wypelniacy input tekst zniknie w momencie klikniecia w input <input type="text" placeholder+"imie i nazwisko"><br>
