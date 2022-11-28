@@ -131,4 +131,13 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    <code><thead> i </thead> </code> poczatek i koniec sekcji naglowka tabeli<br>
     <code><tbody> i </tbody> </code> poczatek i koniec sekcji glownej tabeli<br>
     <code><tfoot> i </tfoot> </code> poczatek i koniec sekcji stopki tabeli<br>
+   <hr>
+   <h2>formularze</h2>
+   <code><input> </code> element pozwalajacy na wprowadzenie danych wejściowych przez użytkownika.
+   Element samozamykający nie ma znaczmika końcowego. <input><br>
+   <h4>Typy znacznika input</h4>
+   <ol>
+   <li><code><input type="text"> </code> pole tekstowe <input type="text"</li>
+   </ol>
    
+ 
