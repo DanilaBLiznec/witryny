@@ -149,3 +149,16 @@ CSS- język służący do opisu formy prezentacji stron WWW. Cascading Style She
    <code><input disabled> </code> element pozwalający na wprowadzenia danych jest niedostepny/wylaczony<input><br>
    <code><label> i </label> </code> etykieta ktorą uzytlownik mie ,oze edytowac zazwyczaj informacja co mamy wrowadzic do formularza <label>cena<input type="number"></label><br>
    <code><input type="text" placecholder="imie i nazwisko"> i </label> </code> placholder to jest tekst wypelniacy input tekst zniknie w momencie klikniecia w input <input type="text" placeholder+"imie i nazwisko"><br>
+   <code> <input type="radio"></code> pole wyboru w jednej grupie mozemy wybrac tylko jedna opcje 
+   <br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 1<br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 2<br>
+   <input type="radio" name="opcja" value="wybor1">Wybor 3<br>
+Atrybut name pozwala nam olreslic ze dane pole radio jst w tej samej grupie atrybut value okresla wartosc dla wybranej opcji<br>
+    <code> <input type="checkbox"></code> pole potwierdzenia swosujemy w przypadku np. zgody marketingowej 
+   <br>
+   <input type="checkbox"  value="wybor1">Wybor 1<br>
+   <input type="checkbox"  value="wybor1">Wybor 2<br>
+   <input type="checkbox"  value="wybor1">Wybor 3<br>
+Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<br>
+   
