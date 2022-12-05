@@ -161,4 +161,19 @@ Atrybut name pozwala nam olreslic ze dane pole radio jst w tej samej grupie atry
    <input type="checkbox"  value="wybor1">Wybor 2<br>
    <input type="checkbox"  value="wybor1">Wybor 3<br>
 Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<br>
+   <code><textarea cols="50"> i </textarea> </code> pozwala wprowadzac  dluzszy tekst w kilku kinijkach za pomoca parametru cols mozemy okreslic ilosc linii <textarea cols"50"></textarea><br>
+   <code><select> i </select> </code> rozwija lista w ktorej definijmy kolejne elementy<br>
+   <code><option> i </option></code> deklaracja elementow listy rozwijanej atrybut selected okresla ktory element ma byc zaznaczony<br>
+   np
+   <select>
+    <option>Tomek</option>
+      <option>Lukasz</option>
+      <option>Danila</option>
+      <option>Bartek</option>
+      <option>Seba</option>
+      <option>Kamil</option>
+   </select>
+   <code><form> i </form></code> deklaracja poczatku i konca formularzqa<br>
+   <code><input type="submit"> </code> prycis ktory powoduje przeslnie/wykonanie formularza parametr value okresla tekst ktory ma sie pojawi na przycisku <input type="submit'></li>
+    metody przeslania formularza
    
