@@ -181,6 +181,23 @@ Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<
     <p> Reguly Css to inaczej zbiory zasad sluzace do formatowania tresci (wygladu strony) Zbudowane sa z wlasciwosci oraz jej wartosci <br>
     wlasciwosc:wartosc;<br>
     background-color: blue; </p>
+    <p> dodawac elementy css mozdemy na trzy sposoby:
+    <ul>
+    <li> w pliku html wewnatrz znacznika wpisujac atrybut style=""<br>
+    <code><p style="background-color: blue></ code></li>
+   <li> w pliku html za pomoca znacznika <style><br>
+    <code><style>p {backround-color: blue} i </code></li>
+    <li> w oddzielnym pliku najczwsciej rozszerzenie css na stronie html umieszczamy limk do pliku w sekcji head <br>
+     <code><link rel="stylesheet" href="afresPliku.css"> </code>
+     <br>
+     w pliku css struktura wyglada nastepujaco <br>
+     <code>
+      p {
+      font: 28px arial;<br>
+      background-color: yellow;<br>
+      }
+     </code>
+    </ul>
     
   
    
