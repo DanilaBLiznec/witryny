@@ -199,5 +199,6 @@ Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<
      </code>
     </ul>
     
+   
   
    
