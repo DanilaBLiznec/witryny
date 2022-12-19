@@ -176,4 +176,11 @@ Pole checkbox pozwala uzytkownikowi na zaznaczenie dowolmej ilosci pol checkbox<
    <code><form> i </form></code> deklaracja poczatku i konca formularzqa<br>
    <code><input type="submit"> </code> prycis ktory powoduje przeslnie/wykonanie formularza parametr value okresla tekst ktory ma sie pojawi na przycisku <input type="submit'></li>
     metody przeslania formularza
+    <h1>CSS - casing style sheets - kaskadowe arkusze stylow </h1>
+    
+    <p> Reguly Css to inaczej zbiory zasad sluzace do formatowania tresci (wygladu strony) Zbudowane sa z wlasciwosci oraz jej wartosci <br>
+    wlasciwosc:wartosc;<br>
+    background-color: blue; </p>
+    
+  
    
